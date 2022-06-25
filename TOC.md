@@ -42,6 +42,8 @@
 ##### [Action Groups](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:overview&#action_groups)
 - [Action Group Class](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:action_group_class)
 ##### [Actions.xml](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#actionsxml)
+##### [&lt;alignWithControl&gt;](https://wiki.indigodomo.com/doku.php?id=api_release_notes:1.4#config_ui_layout_options)
+##### [&lt;alwaysUseInDialogHeightCalc&gt;](https://forums.indigodomo.com/viewtopic.php?t=17039)
 ##### [API Release Notes](https://wiki.indigodomo.com/doku.php?id=api_version_chart)
 ##### [(Plugins and) APIs](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide&#indigo_plugins_and_apis)
 
@@ -314,6 +316,7 @@
 - [Indigo 2022.1 Server Plugin Tutorial](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_extending_tutorial)
 - [Indigo SDK]([available here](https://github.com/IndigoDomotics/IndigoSDK/releases))
 - [RESTful API](https://wiki.indigodomo.com/doku.php?id=indigo_s_restful_urls) 
+##### [&lt;Template&gt;](https://wiki.indigodomo.com/doku.php?id=api_release_notes:1.4#config_ui_templates)
 ##### [Text Field](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide&#text_field)
 ##### [Third Party Indigo Clients]([Other Indigo Clients](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:clients))
 ##### Third Party Plugins
@@ -366,6 +369,7 @@
 - [Managing X10 Devices](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:managing_x10_devices)
 - [X10 RF Interface Options](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:x10_rf_interface_options)
 ##### [XML Conventions](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#indigo_plugin_xml_conventions)
+##### [&lt;Template&gt;](https://wiki.indigodomo.com/doku.php?id=api_release_notes:1.4#config_ui_templates)
 
 ### Y
 
