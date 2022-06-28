@@ -95,6 +95,7 @@
 - [Applescript_Integration_Strategies](https://wiki.indigodomo.com/doku.php?id=developer:applescript_integration_strategies)
 - [Contributing to Plugins on Github](https://wiki.indigodomo.com/doku.php?id=developer:contributing_to_plugins_on_github)
 - [Developer's Guide](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide&#indigo_plugin_developer_s_guide_v20)
+- [Debugging](https://wiki.indigodomo.com/doku.php?id=setting_up_a_development_environment#debugging)
 - [Github Setup for Plugins](https://wiki.indigodomo.com/doku.php?id=developer:github_setup_for_plugins)
 - [Installing Py-applescript from Source](https://wiki.indigodomo.com/doku.php?id=developer:installing_py-applescript_from_source)
 - [Plugins for Dummies](https://wiki.indigodomo.com/doku.php?id=developer:plugins_for_dummies)
@@ -209,6 +210,7 @@
 ##### [Logging](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#logging)
 - [Log Levels](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#log_levels)
 - [Logging from submodules](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#logging_from_submodules)
+- [Logging from Linked and Embedded Scripts](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#logging_from_linked_and_embedded_scripts)
 - [self.indigo_log_handler](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#selfindigo_log_handler)
 - [self.plugin_file_handler](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#selfplugin_file_handler)
 
