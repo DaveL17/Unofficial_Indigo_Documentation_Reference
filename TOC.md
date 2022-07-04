@@ -1,6 +1,6 @@
 ## *Unofficial Indigo Documentation Reference*
 ![indigo-version](https://img.shields.io/badge/Indigo-2022.1-3333FF.svg)
-> [A](#a)  [B](#b)  [C](#c)  [D](#d)  [E](#e)  [F](#f)  [G](#g)  [H](#h)  [I](#i)  J  K  [L](#l)  [M](#m)  N  [O](#o)  [P](#p)  Q  [R](#r)  [S](#s)  [T](#t)  [U ](#u)  [V](#v)  W  [X](#x)  Y  [Z](#z)
+> [A](#a)  [B](#b)  [C](#c)  [D](#d)  [E](#e)  [F](#f)  [G](#g)  [H](#h)  [I](#i)  J  [K](#k)  [L](#l)  [M](#m)  N  [O](#o)  [P](#p)  Q  [R](#r)  [S](#s)  [T](#t)  [U ](#u)  [V](#v)  W  [X](#x)  Y  [Z](#z)
 
 ### A
 
@@ -199,6 +199,7 @@
 ### K
 
 ----
+##### [&lt;kStateImageSel&gt;](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:device_class&#state_image_sel_enumeration)
 
 ### L
 
