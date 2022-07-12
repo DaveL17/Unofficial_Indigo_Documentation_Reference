@@ -44,6 +44,7 @@
 ##### [Actions.xml](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#actionsxml)
 ##### [&lt;alignWithControl&gt;](https://wiki.indigodomo.com/doku.php?id=api_release_notes:1.4#config_ui_layout_options)
 ##### [&lt;alwaysUseInDialogHeightCalc&gt;](https://forums.indigodomo.com/viewtopic.php?t=17039)
+##### [&lt;allowUserCreation&gt;](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#device_sub-types)
 ##### [API Release Notes](https://wiki.indigodomo.com/doku.php?id=api_version_chart)
 ##### [(Plugins and) APIs](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide&#indigo_plugins_and_apis)
 
