@@ -1,6 +1,6 @@
 ## *Unofficial Indigo Documentation Reference*
 ![indigo-version](https://img.shields.io/badge/Indigo-2022.1-3333FF.svg)
-> [A](#a)  [B](#b)  [C](#c)  [D](#d)  [E](#e)  [F](#f)  [G](#g)  [H](#h)  [I](#i)  J  [K](#k)  [L](#l)  [M](#m)  N  [O](#o)  [P](#p)  Q  [R](#r)  [S](#s)  [T](#t)  [U ](#u)  [V](#v)  W  [X](#x)  Y  [Z](#z)
+> [A](#a)  [B](#b)  [C](#c)  [D](#d)  [E](#e)  [F](#f)  [G](#g)  [H](#h)  [I](#i)  [J](#J)  [K](#k)  [L](#l)  [M](#m)  N  [O](#o)  [P](#p)  Q  [R](#r)  [S](#s)  [T](#t)  [U ](#u)  [V](#v)  W  [X](#x)  Y  [Z](#z)
 
 ### A
 
@@ -94,10 +94,10 @@
 ##### [Deletion Dependencies](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:deletion_dependencies)
 ##### Developer
 - [Applescript_Integration_Strategies](https://wiki.indigodomo.com/doku.php?id=developer:applescript_integration_strategies)
-- [Contributing to Plugins on Github](https://wiki.indigodomo.com/doku.php?id=developer:contributing_to_plugins_on_github)
+- [Contributing to Plugins on GitHub](https://wiki.indigodomo.com/doku.php?id=developer:contributing_to_plugins_on_github)
 - [Developer's Guide](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide&#indigo_plugin_developer_s_guide_v20)
 - [Debugging](https://wiki.indigodomo.com/doku.php?id=setting_up_a_development_environment#debugging)
-- [Github Setup for Plugins](https://wiki.indigodomo.com/doku.php?id=developer:github_setup_for_plugins)
+- [GitHub Setup for Plugins](https://wiki.indigodomo.com/doku.php?id=developer:github_setup_for_plugins)
 - [Installing Py-applescript from Source](https://wiki.indigodomo.com/doku.php?id=developer:installing_py-applescript_from_source)
 - [Plugins for Dummies](https://wiki.indigodomo.com/doku.php?id=developer:plugins_for_dummies)
 - [Plugin Logging - How, When, Why](https://wiki.indigodomo.com/doku.php?id=plugin_logging_-_how_when_why)
@@ -194,7 +194,7 @@
 - [Using INSTEON and Z-Wave at the Same Time](https://wiki.indigodomo.com/doku.php?id=insteon_zwave)
 
 ### J
-
+- [JSONDateEncoder](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:object_model_reference#utility_classes_and_functions)
 ----
 
 ### K
