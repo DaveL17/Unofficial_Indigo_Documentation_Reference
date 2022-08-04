@@ -354,6 +354,7 @@
 ##### [Upgrading from Legacy Versions of Indigo](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:upgrading_from_legacy_versions_of_indigo)
 ##### [User Forums](http://www.indigodomo.com/forums)
 ##### [Using INSTEON and Z-Wave at the same time](https://wiki.indigodomo.com/doku.php?id=insteon_zwave)
+##### [Utility Classes and Functions](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:object_model_reference#utility_classes_and_functions)
 
 ### V
 
