@@ -194,8 +194,9 @@
 - [Using INSTEON and Z-Wave at the Same Time](https://wiki.indigodomo.com/doku.php?id=insteon_zwave)
 
 ### J
-- [JSONDateEncoder](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:object_model_reference#utility_classes_and_functions)
+
 ----
+- [JSONDateEncoder](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:object_model_reference#utility_classes_and_functions)
 
 ### K
 
@@ -284,6 +285,7 @@
 - [Worldwide Resellers](https://www.indigodomo.com/resellers/)
 ##### [Resources Folder](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide&#resources_folder)
 ##### [RESTful API](https://wiki.indigodomo.com/doku.php?id=indigo_s_restful_urls) 
+##### [Return Static File](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:object_model_reference#return_static_file)
 
 ### S
 
@@ -356,6 +358,7 @@
 ### V
 
 ----
+##### [Validate Email Address](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:object_model_reference#validate_email_address)
 ##### [Validation Methods](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#validation_methods)
 ##### [Variables](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:overview&#variables)
 ##### [Variable Class](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:variable_class)
