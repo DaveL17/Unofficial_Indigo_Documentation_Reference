@@ -212,7 +212,7 @@
 ##### [List](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#list)
 ##### [Logging](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#logging)
 - [Log Levels](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#log_levels)
-- [Logging from submodules](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#logging_from_submodules)
+- [Logging from Another Class or Submodule](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide&#logging_from_another_class_or_submodule)
 - [Logging from Linked and Embedded Scripts](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#logging_from_linked_and_embedded_scripts)
 - [self.indigo_log_handler](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#selfindigo_log_handler)
 - [self.plugin_file_handler](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide#selfplugin_file_handler)
@@ -307,6 +307,8 @@
 - [Upgrading from Legacy Versions of Indigo](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:upgrading_from_legacy_versions_of_indigo)
 - [Software Downloads](https://www.indigodomo.com/downloads.html)
 - [Software Upgrades](https://www.indigodomo.com/purchase-upgrade)
+##### [subscribeToChanges()](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:object_model_reference&s[]=subscribetochanges#subscribing_to_object_change_events)
+
 ##### Support
 - [Contact Support](https://www.indigodomo.com/contact)
 ##### [Support Folder Structure](https://wiki.indigodomo.com/doku.php?id=indigo_2022.1_documentation:plugin_guide&#indigo_support_folder_structure)
